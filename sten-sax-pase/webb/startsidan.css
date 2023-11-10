@@ -938,10 +938,10 @@ p {
     padding-bottom: 6rem;
     padding-left: 2rem;
 
-    /* animation: skew-y-shake 2.5s infinite; */
+     animation: skew-y-shake 2.5s infinite; 
         }
         
-/*         @keyframes skew-y-shake {
+     @keyframes skew-y-shake {
         0% {
         
                 margin-right: 0;
@@ -958,7 +958,7 @@ p {
             100% {
                 transform: skewY(0deg);
             }
- } */
+ } 
  #sten{
     width: 4rem;
     height: 4rem;
