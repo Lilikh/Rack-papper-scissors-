@@ -1,5 +1,20 @@
 **Här** skriver vi vad som ska göras och vem som ska göra det
 
+2023-11-14:
+Spelsidan:
+CSS
+*mer blått över banan, mer grått under: Done, Anders
+*Utrymme för sten sax påse symbolerna mellan avatarerna, Done, Anders
+*Namn ovanför avatarerna
+*Placera hundar
+*Finjustera headern så deet blir en bra balans ninth kan vara ett sätt.
+
+Javascript:
+*Rörelse/animation hundar
+Få över avatar från start till spel
+Koppla på javascript till 
+
+
 <!-- Startsidan -->
 
 - Fixa border runt ikonerna när man klickar på dem, på startsidan. Gabriel Klart
